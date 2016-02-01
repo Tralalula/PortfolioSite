@@ -1,3 +1,8 @@
+/* Header */
+hr {
+    border-width: 4px;
+}
+
 /* Logo */
 .logo {
     margin: 5px;
