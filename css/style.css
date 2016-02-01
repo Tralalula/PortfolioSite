@@ -27,6 +27,24 @@ hr {
     margin: 0 auto;
 }
 
+.ic {
+    color: #333333;
+}
+
+/* Icon */
+.ic:hover {
+    text-decoration: none;
+    color: #747704;
+}
+
+.ic:focus {
+    text-decoration: none;
+}
+
+.ic:active {
+    color: #747704;
+}
+
 @media screen and (max-width: 991px) {
     /* Featured Work */
     .featured-work-title {
